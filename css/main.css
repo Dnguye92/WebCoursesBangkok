@@ -233,6 +233,7 @@ footer .box h4{
 	margin: 0 0 10px 0;
 	padding-bottom: 10px;
 	border-bottom: 1px solid #8e8e8e;
+	color: #e8e8e8;
 }
 
 footer .box p{
@@ -250,6 +251,6 @@ footer .box address{
 }
 
 footer .box address a{
-	color: #8e8e8e;
+	color: #e8e8e8;
 	text-decoration: none;
 }
